@@ -1,0 +1,1214 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: 2q5vDTSLG1jhORFdwJSpecLGpg8=
+SHA1-Digest-Manifest: jtqa5y3xwQ8Po93GFgP8MsAbIXw=
+Created-By: 1.8.0_91 (Oracle Corporation)
+
+Name: res/drawable-ldpi-v11/pn_status_icon.png
+SHA1-Digest: vCoB+a7GI2hpI7705sGNtwwNAxE=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: cFLcAfcdtjRVwaUiHcpXzbHB85k=
+
+Name: res/drawable/wigp_style_button_next.xml
+SHA1-Digest: Ty8dgApNDJ8mpon21w8EtondTAM=
+
+Name: res/drawable/wigp_text_playnow.png
+SHA1-Digest: SYOwUyCGIru3wAwJVMO16e6krfU=
+
+Name: res/layout/iap_layout_osconfirmation.xml
+SHA1-Digest: CfqJDxRwJnTYLrvRU+tMZKH/5JA=
+
+Name: res/layout/layout_downloading_dialog.xml
+SHA1-Digest: FCcvYUQa5xhzMIuFf+tJvy8WxfA=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: ctUuIjZakD8wSQs7hMuhaA/Qgt8=
+
+Name: res/layout/messenger_button_send_blue_round.xml
+SHA1-Digest: y725sCI6i4Jyq09iwTMR34vRZF0=
+
+Name: res/drawable/glclub_logo.png
+SHA1-Digest: Fn4BS+qYKfxTM50zEGcuugNFT0I=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: /FjtqMoeBb1uJXWlCDEKai6tui0=
+
+Name: res/layout/layout_glclub_tyc.xml
+SHA1-Digest: oPlmiwlkNEs+x0G+xRelPYVgN3I=
+
+Name: res/layout/layout_sms_sending.xml
+SHA1-Digest: HWFV4i1e67AcdCQ9eH2cQGqvv10=
+
+Name: res/layout/layout_sms_sent_sucess.xml
+SHA1-Digest: +6oMGp91q5dwLF5Qd05Q48auHWs=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: emFkMLLP4q9pU2fUKoWK8aTC5nY=
+
+Name: res/drawable/wigp_selector_button_moregame_wigp.xml
+SHA1-Digest: n5SYF0AzPYSVRhhB0mtcoDLlAhg=
+
+Name: android/support/v4/media/annotations.xml
+SHA1-Digest: 2W/1YXstoLiBNIwYvlwxhqyObdo=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: Cwe+wHKzxf9M8ojWiF1icAb1lLQ=
+
+Name: res/layout/wdigp_loading.xml
+SHA1-Digest: YPuqaCk0QqlVkNDITTXKJZKom6Y=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: MtJKBhY9Mbr+yJW7ycW+w/QSNHA=
+
+Name: res/drawable/radio_checked.xml
+SHA1-Digest: ZlzSBDfCthF+HwgLBPtR2hWIzyY=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: 3buoKAApPQcV7UkCZ12TOhjBvnA=
+
+Name: res/drawable/wigp_style_button_close_press.xml
+SHA1-Digest: zsw/u+DYSgK9EGwaKbZN8RcMU0A=
+
+Name: resources.arsc
+SHA1-Digest: qgJ4IvSrMU8VIRI/EJqQCVINbrM=
+
+Name: res/drawable/wigp_selector_button_play.xml
+SHA1-Digest: 7FcEsQl8fmim/9mxB7OnKNU9zuQ=
+
+Name: res/layout/iap_layout_osconfirmation_sp_directiap.xml
+SHA1-Digest: dp5T8DEBVv3ns9Y9ZqdRlQra9EY=
+
+Name: res/layout/layout_acceptance_link.xml
+SHA1-Digest: rrktoEErnMuu21Fi9hPKN3/h+sg=
+
+Name: assets/800x480/AR
+SHA1-Digest: CCtOUI76512NXM5qvxqFpTKYSGM=
+
+Name: res/drawable/com_facebook_button_icon.xml
+SHA1-Digest: 84RR87qLgXvXmlinz+tDoF7SZJo=
+
+Name: res/layout/layout_wait_to_copy.xml
+SHA1-Digest: x7jzMcbKPAqCjMrtRlklX3H695c=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_icon_white.png
+SHA1-Digest: KuoruTPJ0Wo1ZEUnZVbWdfkLEHw=
+
+Name: res/drawable-xhdpi-v11/pn_status_icon.png
+SHA1-Digest: 2+qlPencFEyl/xwyWbFutbXy7uY=
+
+Name: res/layout/layout_carrier_selection.xml
+SHA1-Digest: K+3qxCmy8MXkaEtexKJhH5gubqc=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.pn
+ g
+SHA1-Digest: 4Sdqg7wQrTL1CDWzbaR/gWRx/SM=
+
+Name: res/drawable-mdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: tL48EWCGgHAUf7xT8SmTPKR2uj4=
+
+Name: res/drawable/popup_background.9.png
+SHA1-Digest: ia3+GtA2FZzpfGTh6KV5owvE0e4=
+
+Name: res/drawable/wigp_background_mask.png
+SHA1-Digest: jYtzPF6v6YEhQOioRHLrf9Th2f4=
+
+Name: res/drawable/button_disabled.9.png
+SHA1-Digest: uj/pEH0HchkNycrrNdSniPo9Htg=
+
+Name: res/drawable/radiobutton_drawable.xml
+SHA1-Digest: L8QJoE+wXAZCOkuvDF97H4yEO4I=
+
+Name: res/layout/layout_main_menu.xml
+SHA1-Digest: B39Veji9oQDy9nF8O+j6DAYFEEk=
+
+Name: res/drawable/wigp_style_background_button.xml
+SHA1-Digest: jPbALk6LH+/mn6ScLT6GqSqIlOQ=
+
+Name: res/drawable/wigp_style_background_button_press.xml
+SHA1-Digest: E/ymL5BOMb4Elw/koaueJ87NlWs=
+
+Name: res/layout/iap_webview.xml
+SHA1-Digest: PDOxr23SrzX294Npw5a20H4iScU=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: NhICpQe3GsJyTx9RrAGpGlUxZi0=
+
+Name: lib/armeabi-v7a/libnativeU.so
+SHA1-Digest: JifQbU4bADrCxSpFpuamIyWGpUk=
+
+Name: res/drawable/button_background.xml
+SHA1-Digest: Rh4RORfPpaML216ctVbmW7NSZtQ=
+
+Name: res/drawable/dialog_button_cancel.xml
+SHA1-Digest: /hnZT0y2n52kEYQQqf5maCjtmwo=
+
+Name: assets/800x480/InitialFeed.bin
+SHA1-Digest: MEjjxbRkuj+ZfwjaaRC5V4Y8b2s=
+
+Name: res/layout/layout_unlocked_silent.xml
+SHA1-Digest: nih9agaSnT159vTf8JSDeCZ9k6k=
+
+Name: assets/IAP_StoreInfo
+SHA1-Digest: aP37MtuQ4xRDutGmb8fbq6wxuz8=
+
+Name: res/layout/layout_language_selection.xml
+SHA1-Digest: WlNdwCAzRZDVKvt4xmbJbpKwzG8=
+
+Name: res/drawable/button_normal_green.9.png
+SHA1-Digest: 6Tn/fX45CuBb0IGXJk8n41IkB4E=
+
+Name: res/layout/layout_sms_wait_unlock.xml
+SHA1-Digest: 8hCuGhc3OJUB3ur/etJcZbZU/es=
+
+Name: res/drawable-hdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: 3unwaXsAGaYOM51f+jFN5tSTS2U=
+
+Name: res/raw/serialkey.txt
+SHA1-Digest: bay3Md46aPWdIv2sV5bVvzxSWYA=
+
+Name: res/drawable/ic_background.png
+SHA1-Digest: Vl4yhTD8MNXwB0XU2S4aJ5YQaSY=
+
+Name: res/drawable/wigp_style_background_button_cancel_press.xml
+SHA1-Digest: 0VQUPrHNfoQp0c1DPka4xdCbjhI=
+
+Name: res/drawable-hdpi-v4/pn_status_icon.png
+SHA1-Digest: DXwXc9tygQ5fOhsFQrYw76aKULI=
+
+Name: res/layout/layout_demo_ended.xml
+SHA1-Digest: ZWviiELWpBmNtzh2dmkOuRAk60M=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: xX+dB65B/trtO3KkCxRzEUFPSP8=
+
+Name: res/drawable/content_undo.png
+SHA1-Digest: s1deYS+SzZAq1Dwm0z95kQcOZds=
+
+Name: res/drawable/wigp_pzoo_shortcut.png
+SHA1-Digest: 6cIFUZvwBa1NDuv0MnPxRuNlR8Q=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: NtCFEYeBurmk3oskoWpyRbh6HeA=
+
+Name: res/drawable/com_facebook_auth_dialog_cancel_background.xml
+SHA1-Digest: /sZO+Hx+EnEtCfoGp9MKKZbO6X8=
+
+Name: res/layout/layout_sms_sent_failed.xml
+SHA1-Digest: mhV6Q79/eb17odeVPuG/Hj0yvXg=
+
+Name: assets/800x480/DE
+SHA1-Digest: 6a6tx03QYIaZLn+ZRdanZjjo5aA=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: K5A3nDU7gKrGcdIAIqA/HoELlP4=
+
+Name: res/drawable/icon_g.png
+SHA1-Digest: MIMVQpb6qP+nARGPX8gZ1HR/ico=
+
+Name: res/drawable/shape_dialog_bg.xml
+SHA1-Digest: 9kmGyU6r/C1hQIpPvP8W7psNwAE=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: ozmHdsqCfDUcW3Ez+raeCieZbBA=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: 4CdqXBGlVbr0uRWVKMltRzHVzuA=
+
+Name: res/layout/iap_layout_osselection_cc.xml
+SHA1-Digest: sV/MjGH2zbslh8qMe/cx3M4y54M=
+
+Name: assets/800x480/7
+SHA1-Digest: 02+1Z9cYaUV9ZT/amvAI6K910As=
+
+Name: res/drawable/com_facebook_button_background.xml
+SHA1-Digest: UQj24oB3fN9XI8A+BGdV8RcvCUE=
+
+Name: assets/800x480/8
+SHA1-Digest: TCU/tO7HF6GxzUQZ40brV0+nzP0=
+
+Name: assets/800x480/9
+SHA1-Digest: EOLq7ch3CSfrlNUuP7Ocd3Ndg/U=
+
+Name: assets/800x480/ES
+SHA1-Digest: on2py5RZPzqjfJtaQuVtVBvhVa0=
+
+Name: res/drawable/com_facebook_button_like_background.xml
+SHA1-Digest: N8C1wNTd4NzaFPAygbV0s1yx2nE=
+
+Name: assets/800x480/EN
+SHA1-Digest: 3LGL8kKb7PA+qubb2rzIucMKCnQ=
+
+Name: res/drawable/wigp_btn_next.png
+SHA1-Digest: pwW4CNyIScqZ4xfz/F/rkjrlkrs=
+
+Name: assets/800x480/0
+SHA1-Digest: 0Rg4vqBMe/LdbFdlM5EKlkTeDFk=
+
+Name: res/drawable/button_background_disabled.xml
+SHA1-Digest: W1T+iJw/ieOfVpqniD5p8tQVYlA=
+
+Name: res/layout-land/custom_alert_dialog.xml
+SHA1-Digest: UKqkNTTJpPL+llMiQH0juWkuF9c=
+
+Name: res/layout/layout_buy_confirmation.xml
+SHA1-Digest: WynSG/qnd5abUmB/wZl+lyeYUqk=
+
+Name: res/raw/content.bin
+SHA1-Digest: L+KoRq7wxL9pXXP2diMm/XoDcTs=
+
+Name: assets/800x480/2
+SHA1-Digest: /EMye3Fr64RUDMTDTRUIqcq00aQ=
+
+Name: res/drawable/button_background_softkey.xml
+SHA1-Digest: B+aijYwa8RJLh5MFTkYpylM82aM=
+
+Name: res/layout/wigp_screenshot.xml
+SHA1-Digest: pShTlWUTnRlPTNfWuleS8J2JM8Y=
+
+Name: assets/800x480/3
+SHA1-Digest: 6SZZWAAfbPxHZFeExohw4JKXeJU=
+
+Name: assets/dataIGP_800x480
+SHA1-Digest: mOIVbeyCLStHzPMGXhwKprmME7U=
+
+Name: assets/800x480/4
+SHA1-Digest: RjYI2XNef0m0jk4isBaWd9kpJb8=
+
+Name: assets/800x480/5
+SHA1-Digest: 8H6kyeulLar0UW37QG3kLshNSNw=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: 7sfzYDkSB2WxvI/9pCq6flhdSEk=
+
+Name: assets/800x480/6
+SHA1-Digest: xlUXvSDPTP8pWaR824LzTQENQOY=
+
+Name: res/drawable/scrollbar_vertical_thumb.xml
+SHA1-Digest: +FHE5c77U3F9DzVYas129oxv7wE=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: wIVxOspO61WEtIURYzVaT07U1fs=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: Zi5J7dKTl0gswUoXKWbJV3QEdFg=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png
+SHA1-Digest: cVA7Spq3H2GtFDJWmuEa/r18SDs=
+
+Name: res/drawable/navigation_refresh.png
+SHA1-Digest: tlEkIC5mLgNs1amSRc5JCbujW9U=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: K0X8RQwSkaxQJRUMuXiH3DkNuG0=
+
+Name: res/drawable/wigp_background_welcome_mask.png
+SHA1-Digest: FaLb3UeFgId/KSOMsU86rjPFKuM=
+
+Name: assets/800x480/FR
+SHA1-Digest: E/I1+yvw1gEFRI/Re0UhAjq5iBI=
+
+Name: res/layout/layout_age_gate.xml
+SHA1-Digest: IiRQiKEb9ERvw1wr9G0mP/f+zH4=
+
+Name: res/drawable-v21/com_facebook_favicon_blue.xml
+SHA1-Digest: zaiJKnYDRY7U0GWQqAszswzfp/o=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_icon_white.png
+SHA1-Digest: K8Wk8nt49rm1fw71FaVBbd4c0ao=
+
+Name: res/drawable/button_normal_german.9.png
+SHA1-Digest: M7PQ/8V0iu9DCz8CLXrxEe3PEIA=
+
+Name: res/layout/layout_confirm_popup.xml
+SHA1-Digest: QyaaEJm9Y47XrKqFl5gL9wNr51o=
+
+Name: res/drawable-v21/com_facebook_button_login_logo.xml
+SHA1-Digest: 8wKyqtqMRYBT1YL/rdQqFE93PJM=
+
+Name: res/drawable/wigp_btn_moregame.png
+SHA1-Digest: MfW8PgZctRnMkV/bSDEGL7u7PKI=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: HRBQBKthxxMi8Bofr3YGsFyIq10=
+
+Name: res/drawable/tw_widget_progressbar_effect_holo_light.png
+SHA1-Digest: 8gVsMeLCtt9apwBMX/WZAV6jTLM=
+
+Name: res/drawable/dialog_full_holo_light.9.png
+SHA1-Digest: cPDXxzRIbGY41SGXWoUN6lftaYk=
+
+Name: res/layout/layout_recover_igp_mo.xml
+SHA1-Digest: Uuq+/EW67w5zdVxwoMdFTgRDLEk=
+
+Name: res/drawable/checkbox_drawable.xml
+SHA1-Digest: G7Wi6hOQmqg+fSrT4HivomA7aAI=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_icon_white.png
+SHA1-Digest: /B2iXIae6toPrK416xE6Gz7B2JA=
+
+Name: res/drawable/wigp_background_dialog.png
+SHA1-Digest: eTGgcvwmxXl6XiULmZFOCw635WQ=
+
+Name: res/layout/wdigp_landscape.xml
+SHA1-Digest: Q4AFzeCDmawjtL3FlZuUC6nfc20=
+
+Name: res/drawable-mdpi-v11/pn_status_icon.png
+SHA1-Digest: O8RLMWiYPfalkpXdv2uGHN02MGI=
+
+Name: res/drawable/navigation_forward.png
+SHA1-Digest: mASYIaiGw/ijQkoWQGLwtay6OUU=
+
+Name: res/drawable/startbackground.png
+SHA1-Digest: Bmj0htC1oBX5Wck/HMf891Xcwdg=
+
+Name: res/drawable/wigp_style_background_button_downloadnow.xml
+SHA1-Digest: xpqXpgBWk8yihOzFUbeX3tSM23E=
+
+Name: res/drawable-mdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: J7qI7fmlOhGVHpnHdBs4TXxf0dg=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: /cCPBRXev7UGbF1AQNmAloggnCw=
+
+Name: assets/800x480/PUSH
+SHA1-Digest: hDmG8Rauy8g04VmAAYqNGtYOnqA=
+
+Name: assets/800x480/serialkey.txt
+SHA1-Digest: epXcxFJlc4tfYfKNColURStbCA0=
+
+Name: res/layout/wdigp_popup_confirm_using_3g_to_download.xml
+SHA1-Digest: eHQhfm68NUPGSaxNm3LAKlPCsoE=
+
+Name: res/layout/layout_sms_confirm_tunisia.xml
+SHA1-Digest: onCFxg1g7A7UOkUfLczwPhHQkAk=
+
+Name: res/drawable-mdpi-v4/tw_widget_progressbar_effect_holo_light.png
+SHA1-Digest: ITX/v+gl1qfknPDKU7dYOdATvxw=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: Ll7bn9vH+V/yLvkxL/enCe9ZKRQ=
+
+Name: res/drawable/shape_dialog_button_cancel_normal.xml
+SHA1-Digest: Ywn0jCd4Iv5iAQXbVT+gWPknN4k=
+
+Name: assets/800x480/IT
+SHA1-Digest: XhHSkBGqiiGCCh7T9Qk6ssokrc8=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: 3duvXe9Z23tK4UcPuUDUge8/iTE=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: LPNenw+hEe34Y6XWvuRMyFT3ySs=
+
+Name: assets/smsWrapperLanguages
+SHA1-Digest: 0BzAb3tpFAxfzQYd7qIXYHZivyw=
+
+Name: res/drawable/button_ads_focus.9.png
+SHA1-Digest: 2JmhbLH4nOT5C9c9vbmARSnOMqY=
+
+Name: assets/IAP_EmbeddedProperties
+SHA1-Digest: 5aUDV8Y0z+etkaChsYZ46udy+MM=
+
+Name: res/drawable/progressbar_middle.xml
+SHA1-Digest: alDEYjQi53k4jYdBJ6zY8Tryp74=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: eovOnvROaze6qyuKUJNErdSW4AY=
+
+Name: res/drawable-ldpi-v9/pn_status_icon.png
+SHA1-Digest: u/vwUU3goub5fXozi4HDVyIIg+o=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: 3/sSgQIF1vLGsuAfjSF0YsRSYAE=
+
+Name: res/drawable/pn_custom_icon.png
+SHA1-Digest: KrAbE1oFMTBXryyYvvGe0JGLLVo=
+
+Name: res/layout/layout_wrong_age.xml
+SHA1-Digest: ceFG01AHu7jbDx9xTRbK6syipZg=
+
+Name: res/layout/messenger_button_send_white_small.xml
+SHA1-Digest: NhPDTJpc+FdXMbVbsaRdpCyuSKM=
+
+Name: res/drawable-mdpi-v4/pn_status_icon.png
+SHA1-Digest: ZqQOUTrgzNIt/kPv+EEwb4psKO4=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: I+b+NAqbA3aSrIawmH4G+3nfjJg=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: 8cM2fiHn2MfUWwTRKqeTQN/jJlU=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: E8/LM8gZKl5aNMqlAvoi0A+Gv50=
+
+Name: res/drawable/wigp_btn_moregame_wigp.png
+SHA1-Digest: pA3fpk6IYrZDmsxztrjkRiyDd9U=
+
+Name: assets/IAP_StoreConfig_0
+SHA1-Digest: R89bVTcy4euSX++8RAs34G8xN4Q=
+
+Name: assets/IAP_StoreConfig_1
+SHA1-Digest: U/+oTOIvSD/vhBtUq/pDsJ6Qh5g=
+
+Name: assets/IAP_StoreConfig_2
+SHA1-Digest: XMt0796sIhOuA7Sg/VyH5ySCGnE=
+
+Name: res/color/com_facebook_send_button_text_color.xml
+SHA1-Digest: zA+JicHjV+ED78M9/HE7jwoEcok=
+
+Name: assets/IAP_StoreConfig_3
+SHA1-Digest: C+2AftULluccQtlWtI/nvv8gneA=
+
+Name: assets/IAP_StoreConfig_4
+SHA1-Digest: Z4ivIipcsCuZK8mE8Xs6YhKtkMU=
+
+Name: res/layout/iap_layout_autodetect_country.xml
+SHA1-Digest: Giiftcyu18hMUXDSnEdxe+gQMqI=
+
+Name: assets/profilesTnC
+SHA1-Digest: bAe1oNtYP8/6hiO6j5B9g8HYx4w=
+
+Name: res/drawable/wigp_style_background_button_cancel.xml
+SHA1-Digest: txWSvH+B5t11hAHAZe2Wo/W/qoM=
+
+Name: android/support/v4/widget/annotations.xml
+SHA1-Digest: 6yPOPY3rVgucY4dZTrUN2M5oZcU=
+
+Name: res/layout/wdigp_portrait.xml
+SHA1-Digest: iREnprAPE+txaZwg3nUkrQXYyFs=
+
+Name: res/raw/sfx_quest_finish.ogg
+SHA1-Digest: PMRKPXt7vitqYLxGFY5fPUUeb60=
+
+Name: res/drawable/scrollbar_vertical_track.xml
+SHA1-Digest: lLV0ITYWhfC8BveJcaOVcbgupBU=
+
+Name: res/drawable/button_normal.9.png
+SHA1-Digest: 4NkevpMWDNbGqSm1oQnFW0sQ5Vk=
+
+Name: res/drawable/sk_back_normal.png
+SHA1-Digest: U3wAVqbTnmMtaIO//ijYc0WUsrg=
+
+Name: lib/armeabi/libGLAdsV2.so
+SHA1-Digest: 92myOBFZ2DVQ1cI++iXqD8G71NQ=
+
+Name: res/drawable/button_background_green.xml
+SHA1-Digest: l1OLjYw4vhxoQkPMoNGYFHpK07A=
+
+Name: res/drawable-mdpi-v4/com_facebook_close.png
+SHA1-Digest: 3FAJ1dMx4RNCRNwigRHJJXmRTxg=
+
+Name: res/drawable-xhdpi-v9/pn_status_icon.png
+SHA1-Digest: GirFL4cilqo5nMQZRL3etpweq+M=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: OOTQhmb7mzZFdfQLEemkaMdOp20=
+
+Name: res/drawable/messenger_button_blue_bg_round.xml
+SHA1-Digest: Ej77N/xnNfABQV4tdjpOFpouDWE=
+
+Name: res/drawable/button_ads_background.xml
+SHA1-Digest: 3FUEe+QXbA0Ky/D2ub0U1IvjQ5Q=
+
+Name: res/drawable/icon.png
+SHA1-Digest: nB/A7Kv0Spf8lIFfWdP2rcVT9sM=
+
+Name: res/layout/iap_layout_osconfirmation_directiap.xml
+SHA1-Digest: Lg6D3XdnYUZHrYKryQ2lwZ5TVtQ=
+
+Name: res/layout/progress_dialog.xml
+SHA1-Digest: wpVOyAZ1jzdjJ3nsVu7XrdcPZW8=
+
+Name: assets/welcome_800x480.png
+SHA1-Digest: /Kj7zOgYhJD5KEcTjPqF2N+M4hM=
+
+Name: res/drawable/messenger_button_white_bg_selector.xml
+SHA1-Digest: rQBVpf4BG1/D2Olq9/QZcVBoO5g=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qEnvP7jMJCTNTPn2A/pWYE1iuEU=
+
+Name: res/drawable/wigp_style_background_button_downloadnow_press.xml
+SHA1-Digest: JH+dB/kOgWutZWnyQv7ECnkeQL0=
+
+Name: res/layout/layout_operator.xml
+SHA1-Digest: P7xzrrsKiFxI2hz3rFetmofLUic=
+
+Name: res/drawable/box_unchecked.png
+SHA1-Digest: Nw31e2A4Y6UZFOnXuC9Bngssls4=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: gQ0/2YVeIPXpYPt7iK0T/KVk1lA=
+
+Name: res/layout/com_facebook_tooltip_bubble.xml
+SHA1-Digest: Lhi9EfdJF8jF7NijKoCVBjCq6zg=
+
+Name: assets/smsWrapperInfo
+SHA1-Digest: xmJ/RshCbNHiKqHVVissE4TggqM=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nhqw9/0eyg3RTQLfGUsaSr7oFxo=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: gb9FISWAqoVzJXgCSY6eiwUpoHg=
+
+Name: res/layout/messenger_button_send_blue_large.xml
+SHA1-Digest: 56ufYpivYKAsYeuHGxZOpovS8UY=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA1-Digest: c9osGIeiiqV1I47Am91iBanApoA=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_icon_blue.png
+SHA1-Digest: XLjzv1c4TKbEcIFI1hbuSzcmLxM=
+
+Name: res/drawable/wigp_progress_background.png
+SHA1-Digest: yZblD2pnskI/fVLlSom9z0eaB7U=
+
+Name: lib/armeabi/libnativeU.so
+SHA1-Digest: 4iaXyRpNmMRG6jUryO1ViQWaz78=
+
+Name: res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: QcrNtwdkdkFIT+mUFvWqLjGw8/8=
+
+Name: res/drawable-mdpi-v4/german_buy_button.xml
+SHA1-Digest: tN358/Djb2K8SghTaJpVZA1hDow=
+
+Name: assets/800x480/13.2
+SHA1-Digest: EPB/4GLZCDszzinX1PPfmkNKk6g=
+
+Name: res/layout-v16/com_facebook_device_auth_dialog_fragment.xml
+SHA1-Digest: XlXbCRXhh6vrOWvQQd0666mnxkY=
+
+Name: assets/800x480/13.1
+SHA1-Digest: p+PnQ1EgGzmaPMUf37ygW1q/5GE=
+
+Name: assets/welcome_logo_800x480_EN.png
+SHA1-Digest: tyYyppE3eWf4sEWE2tSgBWH38MM=
+
+Name: res/drawable-xhdpi-v4/com_facebook_close.png
+SHA1-Digest: AZLd+Teo4PjaY2ylYR8kOZ7A4KA=
+
+Name: assets/800x480/13.4
+SHA1-Digest: e+GM784SkTvsEPMcdrhcegN23y4=
+
+Name: assets/800x480/13.3
+SHA1-Digest: gPnjiPsI1ApOIWE1JeKFiCTopB0=
+
+Name: res/layout/layout_will_play_demo.xml
+SHA1-Digest: bhdeqhM6NS7TlXVxmucRGoSPvGA=
+
+Name: res/drawable/wigp_btn_play.png
+SHA1-Digest: m1EdWEwkGXmp21z+wR3Bc2e99Rg=
+
+Name: res/drawable/wigp_logo_game.png
+SHA1-Digest: gTpRYCTe3z0JfitXeqcpuL88BpE=
+
+Name: assets/DefaultProfiles
+SHA1-Digest: 48WnUVnVtfzoNPemWfO3Nd8kyRA=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png
+SHA1-Digest: RC4D0DRdYYiSoIRRzWHf1JHORRM=
+
+Name: res/layout-v16/com_facebook_smart_device_dialog_fragment.xml
+SHA1-Digest: +lTifbvGhRRKgJ5WSprrHqBmObw=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: jNvxHk5uNNnzLtNYfomHIZfERbE=
+
+Name: res/drawable-xxhdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: /uCiOndAuf9wmTifhS144ReYrl0=
+
+Name: assets/dejavusans.ttf
+SHA1-Digest: BIPwCpn3DbRUw7J4Im9XO/HyPBY=
+
+Name: assets/800x480/events.json
+SHA1-Digest: kENpfOMBT1hBNxuhdf1tataTBOY=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: 6/s7R3MnhIc6CsWJYNhdJYCwqos=
+
+Name: res/layout/com_facebook_activity_layout.xml
+SHA1-Digest: mtZFE4a9vtPcmu49MNRCwrD2HJw=
+
+Name: res/layout/layout_sms_sent_sucess_igp.xml
+SHA1-Digest: m1pLIHnP/fwJBizW0CMHYmgoDCo=
+
+Name: res/layout/button_styled.xml
+SHA1-Digest: gpPi3Ad4ec4eyGnADGexUk+BBUc=
+
+Name: res/drawable/background_update.jpg
+SHA1-Digest: lUNfZudk//CktcWCxeBcCnovAkE=
+
+Name: lib/armeabi-v7a/libGLAdsV2.so
+SHA1-Digest: XORAH4kY7aVERwa8DYaBNeb/rGE=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_effect_holo_light.png
+SHA1-Digest: 1R8+GgSPRWtqPMFArgvM+ehSv/Q=
+
+Name: assets/800x480/11
+SHA1-Digest: wB4FiLkzunU5YH6INRUHNPBLbBo=
+
+Name: assets/800x480/10
+SHA1-Digest: xO5KErwEelGeGrwP2Ig+/7U5+64=
+
+Name: assets/800x480/10.1
+SHA1-Digest: Np0okbiCFQRaMrnLd7FA9dTp4j0=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: QjQxgQzM+vwRNf/JuSMF4/mahj4=
+
+Name: res/drawable/background_dialog_title2.png
+SHA1-Digest: x2agBDAVp2vEXgOKk8zREx20NXU=
+
+Name: assets/800x480/10.2
+SHA1-Digest: KjtgP8C8iEkJpiLaXvHGyumRXzg=
+
+Name: res/drawable/com_facebook_auth_dialog_header_background.xml
+SHA1-Digest: fuCi7+4FDThBcnAFzgh7VrzJ++o=
+
+Name: res/layout/layout_buy_confirmation_sp.xml
+SHA1-Digest: k1iBKim/0FVdfRHpyFea6GMpnuQ=
+
+Name: res/layout/wdigp_main.xml
+SHA1-Digest: 0zmu0UHKz7gXDHoJS1ZPS5XGOVQ=
+
+Name: res/layout/layout_loading.xml
+SHA1-Digest: 56KC9aLJFqVsFeW2bTrnXdz68n4=
+
+Name: res/layout/layout_legal.xml
+SHA1-Digest: jFsl/W4734FCIwEkR0vS7wUv7Qs=
+
+Name: assets/800x480/17
+SHA1-Digest: I6qmHEDOZLrVU2P+j8k8VDqQ/EU=
+
+Name: assets/800x480/16
+SHA1-Digest: jvC8eHSfCmIkoGGBucyQoTjobr4=
+
+Name: assets/800x480/15
+SHA1-Digest: t3d36LUZNbAJZgeNKsUvXFSHKxg=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: VY4BZTPfOqztABK1+O31b7kzEc8=
+
+Name: res/drawable/wigp_selector_button_downloadnow.xml
+SHA1-Digest: ARNGvdF2xIe7k+KFo/WeQQAzEAA=
+
+Name: assets/800x480/14
+SHA1-Digest: VdPdxUG/qb//dO5aTI7rIcLwchU=
+
+Name: res/layout/layout_buy_confirmation_german.xml
+SHA1-Digest: Vdk48LKRvRfGbV+6ELYps4vmXWk=
+
+Name: assets/800x480/13
+SHA1-Digest: eihCQDVxgguUM/Q2+2a3xWoq2K8=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: W/wQU37OzZfb6NyA/H+aJ5Jiq9M=
+
+Name: assets/800x480/12
+SHA1-Digest: BJ0z+zsszqBYUdAWd8774/XqLlI=
+
+Name: res/drawable/wigp_background_moregame_press.png
+SHA1-Digest: uSMtsSlJoCNRZKkNha08H5RyVao=
+
+Name: res/drawable/navigation_back.png
+SHA1-Digest: 0N5zjOVt+3666Dpz2CLTrdCmaXU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: FeT6A5ZFwD4lCMyXUjEvwAuBO4w=
+
+Name: res/drawable/background_sms.xml
+SHA1-Digest: M/Ro4+RTNDevhTFGlpzFLm4Aknk=
+
+Name: support.txt
+SHA1-Digest: wwlnBI68SuV12QeQoVrwruPavn0=
+
+Name: res/drawable/wigp_background_moregame_wigp_press.png
+SHA1-Digest: OIcaZ0mENuemOG4Ty+h1iDbYqxI=
+
+Name: res/drawable-hdpi-v9/pn_status_icon.png
+SHA1-Digest: VE8Xhw2mej0W6V4cNaGRfNesI+U=
+
+Name: res/layout-v17/com_facebook_smart_device_dialog_fragment.xml
+SHA1-Digest: L4n/P03oHERgwn8IrwX9+K/MV38=
+
+Name: res/drawable/wigp_screenshot_game.jpg
+SHA1-Digest: zkVnlAW42hqVtGSSI8GVEStdlHc=
+
+Name: res/drawable/wigp_splash_game.png
+SHA1-Digest: ZUQwVMQ3vPzN25ovEuWFLzi26G8=
+
+Name: assets/800x480/RU
+SHA1-Digest: MQPNtvFI3wS6jZGqOl3YvQKpthg=
+
+Name: res/drawable-hdpi-v11/pn_status_icon.png
+SHA1-Digest: ZaJYbZNcNjIm2KGSF39oeBRaTUQ=
+
+Name: res/layout/com_facebook_smart_device_dialog_fragment.xml
+SHA1-Digest: JL1sSdm7BwkgaKEfSOx5nf2ilX8=
+
+Name: res/drawable/com_facebook_send_button_icon.xml
+SHA1-Digest: jiO54Q6njd862Bu0ZqiV/bpub3U=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: Ml+07WnzobpxpeZBxRW/vroGYC4=
+
+Name: assets/config.dat
+SHA1-Digest: lvmZyKumuKV9mCw5GpFoqPn57cE=
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: MLqB6cg4mkFuEfLcJqoDxxWtdWk=
+
+Name: res/drawable-ldpi-v4/pn_status_icon.png
+SHA1-Digest: gfi85Q0QpC8fUbGg8gjpsJdQMNQ=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: FzgoAdXso4c/jO+d1BsCAoZ6/3s=
+
+Name: res/layout/wdigp_game_item.xml
+SHA1-Digest: pc2O/ToZ5BE/uCDw8sQlx0vhfJk=
+
+Name: res/drawable/wigp_background_moregame.png
+SHA1-Digest: 6VjdUvEp3o8cXGcR4kg/xHS5D/g=
+
+Name: res/drawable/style_progressbar_downloading.xml
+SHA1-Digest: mASeOMZggr9d3MekozSxW1mVQg0=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: ry6vqqp6vbscrIO1XPq38OFut00=
+
+Name: assets/800x480/TR
+SHA1-Digest: OBLN2eouHcidxTRJHDVsEA05Ttc=
+
+Name: android/support/v4/media/session/annotations.xml
+SHA1-Digest: iRoWVquU4Ul9O9Y1/COQFHZZ10c=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: YNidwfF+T2jCJbGV9wbZbwjUXyc=
+
+Name: res/layout-land/activity_in_game_browser.xml
+SHA1-Digest: 4fd/iPUcnzX4PbIh2guqXJYbq+Q=
+
+Name: res/layout/layout_country_selection.xml
+SHA1-Digest: Hcjbwo1vc3SpwbofUz1bI1MryLI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: /a/8DpYYng8cfp7LNzKu4OcEc8Q=
+
+Name: assets/800x480/TH
+SHA1-Digest: WlqbW3Pl7IOa/EuKEPKhMkF3Jmk=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: vRsQDmEctEUgqOPziapdOdeNbQw=
+
+Name: res/layout/com_facebook_device_auth_dialog_fragment.xml
+SHA1-Digest: Ux2LK1kLcTqMFPDXFZAFKWPkUaA=
+
+Name: res/drawable/shape_dialog_button_cancel_pressed.xml
+SHA1-Digest: o0GpTQeZdJUt2StCwY5Y89/3eu4=
+
+Name: res/drawable-mdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: zwpdnqRsmAbmWAO6NqfF9j2hmkA=
+
+Name: res/layout/layout_install.xml
+SHA1-Digest: 3VzUK5Gy42CB1vQ9LATeYGaAjLs=
+
+Name: res/drawable/content_cursor.png
+SHA1-Digest: xYbZF8HcLFDsR96xpek/VI+7sxo=
+
+Name: assets/800x480/iaks
+SHA1-Digest: 6bD8VPu6wWKGr64hGh2PdvV9IoE=
+
+Name: res/layout/wdigp_newloading.xml
+SHA1-Digest: 85oL38RkGZzhRfPeIVINq7YPtU8=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.pn
+ g
+SHA1-Digest: C6zMC7FJKr3OixJy8CehCYRGJgk=
+
+Name: res/layout-v17/layout_confirm_popup.xml
+SHA1-Digest: qYMyMbRIxWJbP3V7xS1jjXv139A=
+
+Name: res/layout/layout_recover_igp.xml
+SHA1-Digest: w18JAC5yN0ft0wU2NLxWN0sSNJo=
+
+Name: res/layout/custom_alert_dialog.xml
+SHA1-Digest: Hle2mWPZlBgj+6/HPa7R8SNoZj4=
+
+Name: res/drawable/button_selected_green.9.png
+SHA1-Digest: vC+5o10XM8O/5qMheJXcya4FF9A=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: /CbCJP26MmHfaa9y2fvMvtZ0QrE=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: Y33TSRQaBeEKXdwrEa1jEdHXzfM=
+
+Name: res/drawable/wigp_selector_button_cancel.xml
+SHA1-Digest: E0UGqjLFaSqaAlt9MC3/290BZPg=
+
+Name: res/raw/pbkey.txt
+SHA1-Digest: 890Y+xZgo8LEAW2SrgtfH3XPBpY=
+
+Name: res/drawable/wigp_background_moregame_wigp.png
+SHA1-Digest: miX/yPQZTIyHDylfUHzx8JdV12U=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: picJeZWzDOucJs24z1weuBAxERw=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: rS820sghzsIyoLYQMFBR5PQSXBM=
+
+Name: res/layout-v17/com_facebook_device_auth_dialog_fragment.xml
+SHA1-Digest: aQIJPNC2Ghfl+cQRVrxDHGJFlf8=
+
+Name: assets/800x480/VI
+SHA1-Digest: uLy+LS+lvT52V1O3s+uMvWP6UOY=
+
+Name: res/layout/layout_note_recovery.xml
+SHA1-Digest: Je21MaaiXKBEj0JdeQfaYtFnsHU=
+
+Name: res/layout-port/activity_in_game_browser.xml
+SHA1-Digest: U0ZKgFRCzuSUKJ78pqzMz3Iw6l0=
+
+Name: res/layout/layout_join_glclub.xml
+SHA1-Digest: PFeFZ1XXwRt7CfDqQpDyF5UBf/U=
+
+Name: res/drawable/wigp_btn_close.png
+SHA1-Digest: zVEHhCkRLhH2Y3rdk4Oe/rN6KFI=
+
+Name: res/layout/messenger_button_send_white_round.xml
+SHA1-Digest: Yyart8dZekjRDQvoPKCQ5DItXZw=
+
+Name: res/drawable/sk_back_selected.png
+SHA1-Digest: Z4bwqddb26Da9ts7H5O+r9vSRMo=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: rB6fVFczeguuIdnFrzCTLPslqPk=
+
+Name: assets/profiles
+SHA1-Digest: zNMnKb7DMZUQGP0TutDaS1N4p+k=
+
+Name: res/drawable/wigp_selector_button_close.xml
+SHA1-Digest: cpEMuNlMd2DOCCuZQtX9taFQ8x0=
+
+Name: res/layout/main.xml
+SHA1-Digest: qvMM233meujkLrAFFNewV7ByFbs=
+
+Name: assets/800x480/888
+SHA1-Digest: i5x1LLHAxjRfEwQjxFnueUkUWiQ=
+
+Name: res/drawable/layout_background_dialog.png
+SHA1-Digest: zEDeUn0RRxZv0GPqbExe1v+etgQ=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: wpFv49h+4EQ75rhCiw8m9WXVHUc=
+
+Name: res/layout/iap_osconfirmation_germany.xml
+SHA1-Digest: LwHnHazTdTLy95b9+1mdmZf7eSo=
+
+Name: res/drawable/loadingbar_foreground.png
+SHA1-Digest: Xod/w+fZ2fS8652BNzfzV95UCTQ=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: 8oJz2W0woLsX+WwFjBmOfdpm6+w=
+
+Name: res/drawable/com_facebook_button_send_background.xml
+SHA1-Digest: tCIfjoeeC8/bM/OV50Zk9jFytc8=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: uGl/ZpFc6Gopt8bwqDuI+DeU3AU=
+
+Name: res/raw/sfx_collectibles_popup.ogg
+SHA1-Digest: VE3+CnsY8E9C/cR29LNnnBqyuJQ=
+
+Name: res/drawable/button_focus.9.png
+SHA1-Digest: UdPIHxj9FYf1Hh+bOomZy4kJ9s8=
+
+Name: res/drawable/box_checked.png
+SHA1-Digest: C3bVxQDW7z8wCLcA0x+z6twGSm0=
+
+Name: res/drawable/button_selected.9.png
+SHA1-Digest: JR69EU2Vd+y+rJd/pPF75JB3e/Q=
+
+Name: res/layout/layout_input_code.xml
+SHA1-Digest: fyeQV9fmrmfNSVlHpPeHxR4Jtxk=
+
+Name: res/drawable/shape_dialog_button_ok_pressed.xml
+SHA1-Digest: S8Q+4D55ijycbrEtGFVNHiEOMZI=
+
+Name: res/layout/messenger_button_send_white_large.xml
+SHA1-Digest: ZYrWpMxDWRgc5i2EGIdtMyfvfRo=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: h8kyKRWxpTSLGLLZwNSZSs+bhm4=
+
+Name: res/drawable/com_facebook_auth_dialog_background.xml
+SHA1-Digest: BUrvzb1DJWw+aigGKJ5jCOWZRc0=
+
+Name: res/drawable/button_ads_normal.9.png
+SHA1-Digest: y+vUZBkaDflfT2c+nQ82Nht0uq4=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: nbja+IN+JfflOmmnoWqxc2BVU/M=
+
+Name: res/drawable/button_color.xml
+SHA1-Digest: hjKRdLmG6JUKaoDyMg0Y3yi2sNY=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: vrWBJssyOjhGjA2lZFVNRwq2A0w=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: YcRVGeQc00k2hTdqu3PdLFSXn9o=
+
+Name: res/drawable/wigp_style_button_next_press.xml
+SHA1-Digest: gXeEf4yqO8wMyW7FZprNTtqhhxs=
+
+Name: res/drawable/shape_dialog_button_ok_normal.xml
+SHA1-Digest: iCSMX6umBZN4/esxG89V6hreNuA=
+
+Name: res/drawable/wigp_welcome_game.bmp
+SHA1-Digest: cSUOBqZw0mH0+g6PgWculI3RcrM=
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png
+SHA1-Digest: I/woinyaiVJPE3zIY8gYJQetrto=
+
+Name: res/raw/glads_revision.txt
+SHA1-Digest: 8IORQH30Y52xr2+nYKrne8WZn6w=
+
+Name: assets/800x480/iaos
+SHA1-Digest: qxmZzO6222Z1yrifoc4ah9rAHHI=
+
+Name: res/drawable/messenger_button_white_bg_round.xml
+SHA1-Digest: Cr6gCBn27sXEnT+t2yZlW769J44=
+
+Name: res/drawable/messenger_button_blue_bg_selector.xml
+SHA1-Digest: TOeWjBTOOY1Jrmz/q3B8OslEI/c=
+
+Name: res/layout/iap_layout_osconfirmation_sp.xml
+SHA1-Digest: d6J9FKX9klykTUIKfyYoDvon98M=
+
+Name: res/drawable/wrapper_logo.png
+SHA1-Digest: YoElzeeA5dJZwK8IyWGqQpsGRF8=
+
+Name: res/drawable/loadingbar_background.png
+SHA1-Digest: Zzij9YbP+E+sKyRDR/Q4HYDpEZ4=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: 2RSgEcY527N8nc6vkEu9oe4mHt8=
+
+Name: res/layout/layout_legal_glclub.xml
+SHA1-Digest: ihe3zcC9M/+wsCACjm/a/1iXLhs=
+
+Name: assets/profileListVersion
+SHA1-Digest: 0qZ85eRu/hLIL/iX3ix5h/nOXx8=
+
+Name: res/layout/custom_notification_layout.xml
+SHA1-Digest: vVs1l74CZO6QYu5RmzJOjplg7f0=
+
+Name: res/layout/wdigp_downloading.xml
+SHA1-Digest: ixHcJvI5zSx/9PhBVQaIpGNbIzs=
+
+Name: res/drawable-xhdpi-v4/tw_widget_progressbar_effect_holo_light.pn
+ g
+SHA1-Digest: 5MRSonj600QT61R5mT6ZABmjsAk=
+
+Name: res/layout/layout_sms_confirm.xml
+SHA1-Digest: Ns3+bsj2GXHf598EeQVYnfBmxZk=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: TvXKH1LCuAtmtWoBQYIScJ8a/bs=
+
+Name: res/drawable/com_facebook_button_login_logo.xml
+SHA1-Digest: ia19hNf957CKNVaA2L9Ik1XxR8I=
+
+Name: res/drawable/wigp_style_button_play_press.xml
+SHA1-Digest: bX4ko9X4OWHdjpRtH/pVf1AhI9g=
+
+Name: res/layout/layout_input_wrong_code.xml
+SHA1-Digest: 0OOmn3haMqOmTJCM/OzID16m2kc=
+
+Name: res/layout/layout_glclub_more_tyc.xml
+SHA1-Digest: gyRUDqxKoa4k/ITtfjkd+9c1yXg=
+
+Name: android/support/v4/app/annotations.xml
+SHA1-Digest: P4PuNLKqUL+z4uyO685iZ3IhfLQ=
+
+Name: res/drawable/radio_unchecked.xml
+SHA1-Digest: F2NmQUlDKRiZr5t60BZ39+lyzcw=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: kheZdCaauNIObSdEuvg3/xux3W8=
+
+Name: res/drawable/wigp_selector_button_next.xml
+SHA1-Digest: TUO4pgBlDYoOM+erywvZutt8lX4=
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: VPdppGw0KukZvg2wbAc6H59sMyo=
+
+Name: res/drawable-hdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: 455oihzp5p6ZqM0l8sLaHzgcfCA=
+
+Name: res/drawable/wigp_style_button_close.xml
+SHA1-Digest: Btx7Z+y/axEgz/cU91zxuYO/KEk=
+
+Name: res/drawable-mdpi-v9/pn_status_icon.png
+SHA1-Digest: 0gHDKAsDJGSLxn+RCI6Kc4D14mU=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: KNloVqiJiFgF7vD5Hvf0Wk6U2bk=
+
+Name: res/drawable-xxhdpi-v4/tw_widget_progressbar_effect_holo_light.p
+ ng
+SHA1-Digest: aELJ0bwbPkRSIGftqAFdVgmSQLk=
+
+Name: res/drawable/com_facebook_button_login_silver_background.xml
+SHA1-Digest: z1bYyDiAMhdxzbIpyzlLz4QS7zw=
+
+Name: res/drawable/navigation_cancel.png
+SHA1-Digest: FAEBhI6PJLEDeg5iKumtVfE6soo=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: ZMuY2Kl+f/4GcBuJwxjl6pPtfmY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: zZ5MO9PTxHcikrClUPYyxt515g4=
+
+Name: res/layout/messenger_button_send_blue_small.xml
+SHA1-Digest: 2vCFhzumizPQQmXjL1VwdNTBpBE=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: LWPezl3xEmIsCLEUieBLihK7O2I=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: Q2F8Dw0Gf9McYXVMF8Dhp/+TY1E=
+
+Name: res/raw/crc.bin
+SHA1-Digest: TJuxeAN396Z6E8s62HC3B3Gmn4c=
+
+Name: res/drawable/button_ads_selected.9.png
+SHA1-Digest: LcHBzSDazg+rXYiKUkKV6zxZ+GI=
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait
+ .png
+SHA1-Digest: hCF5Krw+tsj1LrBNnYZxYYpVD8E=
+
+Name: res/drawable-xhdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: kjRlS9OSW8Bfijtlv3AShb3e95c=
+
+Name: res/drawable/tw_widget_progressbar_holo_light.png
+SHA1-Digest: WZGMqH7TVl+k310MLrLu2QczTn4=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: PcWBhRYO2tPvLI4OIYSEUghxLQc=
+
+Name: res/layout/layout_help.xml
+SHA1-Digest: dKIei5KWwTDiILg0kQPXd3WuYhI=
+
+Name: res/drawable/background.xml
+SHA1-Digest: aAg/g9NCeQ3mRJIvIHVtBogkPLg=
+
+Name: res/drawable/com_facebook_button_login_background.xml
+SHA1-Digest: yQ5fRmYCOTbDbDa3NbthtEDMVg8=
+
+Name: res/drawable/wigp_style_mainloading_progressbar.xml
+SHA1-Digest: KtCzjZAwFS+l6lpZuScTHjHhass=
+
+Name: assets/800x480/6.2
+SHA1-Digest: lfupF5UBTMoCwpexn9Pt3vG+0GA=
+
+Name: res/layout/layout_sms_game_not_available.xml
+SHA1-Digest: klryjkZdX608+CWmtzfi+maWRgc=
+
+Name: assets/800x480/6.1
+SHA1-Digest: eHr/XK7UNNT8YB7ukrWkmykmZk8=
+
+Name: res/drawable/sk_back_focus.png
+SHA1-Digest: 9qZK1v/aDfWydPZAR6GovMkDrng=
+
+Name: res/drawable-hdpi-v4/com_facebook_close.png
+SHA1-Digest: gkkP3Ytl6hhbyQMTU1AvAJVpabo=
+
+Name: res/layout/layout_sms_buy_menu.xml
+SHA1-Digest: vHpb/T+obIyMMFtEMO/vxs3j0uY=
+
+Name: res/layout/layout_base.xml
+SHA1-Digest: i8Tup7TI1w2N9ksGu7HKOfefgb8=
+
+Name: assets/profilesLog.txt
+SHA1-Digest: LvmQNfxcCa9aLjxS+OgVMKAVaTg=
+
+Name: res/layout/com_facebook_login_fragment.xml
+SHA1-Digest: OjLV8XQ/drdaiCibasAu5B9t40E=
+
+Name: res/drawable/wigp_progress_foreground.png
+SHA1-Digest: SNjFkbOKr7u+wbpajwc/c/BNNCw=
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.p
+ ng
+SHA1-Digest: 11cPJgNJUXEyZIdj5F5Kh/qeSHc=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: IivC6lhFyu0SmjdMkdI32geOUxM=
+
+Name: res/drawable/wrapper_background.png
+SHA1-Digest: FOtcNJJlJnW6p5qpZhjmoprDygA=
+
+Name: android/support/v4/view/annotations.xml
+SHA1-Digest: wO53yFvU6YbhXgH8H4dERaKx+hA=
+
+Name: res/drawable-xhdpi-v4/pn_status_icon.png
+SHA1-Digest: 078/iO3BDJgaCtlad92c4wRA000=
+
+Name: res/drawable/com_facebook_favicon_blue.xml
+SHA1-Digest: sdi7x9BSrJxuhD35Bx6eghhZvZ8=
+
+Name: res/layout/wdigp_no_game_notify.xml
+SHA1-Digest: PbINFhpJVr7AgVSdkqTN4SX96I0=
+
+Name: res/layout/layout_gameloftlogo.xml
+SHA1-Digest: gm+gkrE3KWwcgZ4oY/6Szh6pldY=
+
+Name: res/layout-port/custom_alert_dialog.xml
+SHA1-Digest: EyTNN0YfuG2VjQ1RA5BekuRmSHM=
+
+Name: res/color/com_facebook_button_text_color.xml
+SHA1-Digest: xxK7Oe2NTiUZt/cRxg+O0UmFlXA=
+
+Name: res/layout/layout_confirm_resetage.xml
+SHA1-Digest: 3wdpen4qUex57ITK5pUBiAOjXdw=
+
+Name: res/drawable/dialog_button_ok.xml
+SHA1-Digest: S/emQeQgOgVGM5M1a1wTxpGomxg=
+
+Name: res/drawable/pn_status_icon.png
+SHA1-Digest: G8YTETINtZx1bC9yjrdWcbZgFKI=
+
+Name: res/layout/layout_unlocked.xml
+SHA1-Digest: 0eRGvmIA+PFcvjfPQhsR5/SOSn8=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: wzyxQCwJI7VPDOf3KhnckaswNMo=
+
+Name: res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: Lxp8rhvzVqmT3Oy+pFyWTg74mJQ=
+
+Name: res/drawable/wigp_style_button_play.xml
+SHA1-Digest: ZIsTSicKxEBQp89S8vWgVzaAP1U=
+
+Name: res/drawable-mdpi-v4/com_facebook_button_icon_blue.png
+SHA1-Digest: 4atT2M5IbVaeQErYlfrwcxCM6tQ=
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: /InT0KVNvy7petW/mClqCNJm+cw=
+
+Name: res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: l/nmTjh1aa6IFeN2p4sgxj/1LN0=
+
+Name: classes.dex
+SHA1-Digest: ujylMM5BXdp7CW6F517b5oQkTew=
+
+Name: res/drawable/wigp_selector_button_moregame.xml
+SHA1-Digest: cSMambwVVmfaG8R3DP0Q/oR1be0=
+
